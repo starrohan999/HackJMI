@@ -6,7 +6,7 @@ When the hackathon organizer organized the hackathon he follow the traditional f
 All ways to solve that can simply be to use web3 power and decentralized storage for it. A Simple smart contract that mints NFT and airdrops to the wallet as a token of appreciation, POAs proof of attendance, and Proof of Achievement. So simply can solve it and it will be very funcky & fancy 
 
 # Technology use
-Solidity->ethereum testnet->wallet->filebase(ipfs cid){decentralized storage}->opensea testnet.
+Solidity->ethereum testnet->Metamask wallet->filebase(ipfs cid){decentralized storage}->opensea testnet.
 # result
 
  ![proof of](https://user-images.githubusercontent.com/71714344/218336921-186528a0-2f73-467d-bb0e-b4102294ce02.png)
